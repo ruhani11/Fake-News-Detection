@@ -60,7 +60,6 @@ Scikit-Learn
 
 Matplotlib
 
-Seaborn
 ---
 ## Installation
 ```bash
