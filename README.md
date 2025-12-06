@@ -50,15 +50,11 @@ The dataset contains over **72,000** labeled news articles.
 ---
 ## Technologies Used
 
-Python
-
-PyTorch
-
-HuggingFace Transformers
-
-Scikit-Learn
-
-Matplotlib
+-Python
+-PyTorch
+-HuggingFace Transformers
+-Scikit-Learn
+-Matplotlib
 
 ---
 ## Installation
