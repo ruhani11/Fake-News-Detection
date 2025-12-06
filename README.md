@@ -48,9 +48,21 @@ The dataset contains over **72,000** labeled news articles.
 └── README.md # Project documentation
 
 ---
+## Technologies Used
 
+Python
+
+PyTorch
+
+HuggingFace Transformers
+
+Scikit-Learn
+
+Matplotlib
+
+Seaborn
+---
 ## Installation
-
 ```bash
 pip install transformers datasets scikit-learn matplotlib seaborn
 How to Run
@@ -89,20 +101,6 @@ Evaluate using standard metrics
 Visualize results
 
 Save model for deployment
-
-##Technologies Used
-
-Python
-
-PyTorch
-
-HuggingFace Transformers
-
-Scikit-Learn
-
-Matplotlib
-
-Seaborn
 
 Google Colab
 
